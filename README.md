@@ -22,7 +22,7 @@ Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Tengo conocimientos sobre Orientación a Objetos, arquitectura y bases de datos.
 
-- :iphone: Me encuentro trabajando en un proyecto personal desarrollando una app con Xamarin.Forms.
+- :iphone: Actualmente me encuentro trabajando en un proyecto personal desarrollando una app con Xamarin.Forms.
 
 - :mailbox: hergarcia.d@gmail.com
 
