@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: Acerca de mi :
-Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en busca de su primer trabajo formal en el área.
+Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en busca de mi primer trabajo formal en el área.
 
 - :telescope: He trabajado con los lenguajes: Java, C# y Python.
 
