@@ -22,7 +22,7 @@ Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Tengo conocimientos sobre Orientación a Objetos, arquitectura y bases de datos.
 
-- :iphone: Actualmente me encuentro trabajando en un proyecto en conjunto con un amigo, desarrollando una app con Xamarin.Forms.  [Handball Statistics](https://github.com/Galle94/AppPruebas/tree/develop)
+- :iphone: Actualmente me encuentro trabajando en un proyecto en conjunto con un amigo, desarrollando una app con Xamarin.Forms.
 
 - :mailbox: hergarcia.d@gmail.com
 
