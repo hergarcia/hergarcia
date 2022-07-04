@@ -18,13 +18,19 @@
 ### :woman_technologist: Acerca de mi :
 Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en busca de mi primer trabajo formal en el área.
 
-- :telescope: He trabajado con los lenguajes: Java, C# y Python.
+- :telescope: He trabajado con los lenguajes: C#, Java y Python.
 
 - :seedling: Tengo conocimientos sobre Orientación a Objetos, arquitectura y bases de datos.
 
 - :iphone: Actualmente me encuentro trabajando en un proyecto personal, desarrollando una app con Xamarin.Forms que tiene el objetivo de llevar las estadísticas de un equipo de handball.
 
-![Seminario Estadísticas](https://user-images.githubusercontent.com/91212752/177205894-415613d0-927f-4285-a8f4-e71e5f1b5bcf.gif)
+
+
+
+https://user-images.githubusercontent.com/91212752/177208522-be8fd5f4-336f-4796-95bc-7d016c5661dc.mp4
+
+
+
 
 - :mailbox: hergarcia.d@gmail.com
 
