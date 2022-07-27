@@ -24,13 +24,7 @@ Soy un estudiante de programación <img src="https://media.giphy.com/media/WUlpl
 
 - :iphone: Actualmente me encuentro trabajando en un proyecto personal, desarrollando una app con Xamarin.Forms que tiene el objetivo de llevar las estadísticas de un equipo de handball.
 
-
-
-
-https://user-images.githubusercontent.com/91212752/177208522-be8fd5f4-336f-4796-95bc-7d016c5661dc.mp4
-
-
-
+https://user-images.githubusercontent.com/91212752/181311164-642f7446-b1bf-4add-aba1-8f483e233dd1.mp4
 
 - :mailbox: hergarcia.d@gmail.com
 
